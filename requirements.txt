@@ -1,0 +1,7 @@
+yfinance
+yahooquery
+langchain
+langchain_groq
+dotenv
+streamlit
+matplotlib
