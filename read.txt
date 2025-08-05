@@ -1,0 +1,17 @@
+step - 1: install the package
+       pip install streamlit
+step - 2: generally to run python file: python <filename>.py
+          for streamlit file: streamlit run <filename> (not work 90%)
+                              python -m streamlit run <filename>.py
+step - 3: maximum first time users it will ask the email id
+
+
+
+Creating Environment : python -m venv venv
+
+ Activate my virtual environment : Windows: venv\Scripts\activate
+                                   macOS/Linux: source venv/bin/activate
+
+Required Installations: pip install -r requirements.txt
+
+.env : to store the api key
