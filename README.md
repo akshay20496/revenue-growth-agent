@@ -74,6 +74,7 @@ streamlit run app.py
 ├── growth_calculation.py       # CalculationTool: compute average growth
 ├── .env                        # Environment file for Groq API key
 ├── requirements.txt            # Python dependencies
+├── Rvenue_Growth_Agent.mp4     # Recording of how app works
 ```
 
 ---
